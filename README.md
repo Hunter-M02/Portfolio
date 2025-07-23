@@ -7,4 +7,6 @@ Welcome! I'm a marketing and analytics professional transitioning into data-driv
 - 📊 **Excel Dashboard: Sales and Performance Insights**  
  Built an interactive dashboard in Excel to visualize key sales and marketing performance metrics.
 
+More coming soon!
+
 
